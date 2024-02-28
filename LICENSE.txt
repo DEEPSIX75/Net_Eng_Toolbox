@@ -1,0 +1,6 @@
+All of the incorporated modules are unchanged and all applicable licensing
+is continue forth unadulterated. 
+
+Attribution and License protection is forwarded with Miguel Grinberg's book 
+material "Flask Web Development". Which I would never be here doing this,
+without that book. Thank you Miguel! https://github.com/ranog/flasky
